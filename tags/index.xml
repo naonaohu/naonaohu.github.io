@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 孬孬虎的博客</title>
-    <link>https://example.com/tags/</link>
+    <link>https://naonaohu.github.io/tags/</link>
     <description>Recent content in Tags on 孬孬虎的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hans</language>
     <lastBuildDate>Tue, 14 Apr 2020 18:48:06 +0800</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://naonaohu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>markdown</title>
-      <link>https://example.com/tags/markdown/</link>
+      <link>https://naonaohu.github.io/tags/markdown/</link>
       <pubDate>Tue, 14 Apr 2020 18:48:06 +0800</pubDate>
       
-      <guid>https://example.com/tags/markdown/</guid>
+      <guid>https://naonaohu.github.io/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>想法</title>
-      <link>https://example.com/tags/%E6%83%B3%E6%B3%95/</link>
+      <link>https://naonaohu.github.io/tags/%E6%83%B3%E6%B3%95/</link>
       <pubDate>Tue, 14 Apr 2020 18:48:06 +0800</pubDate>
       
-      <guid>https://example.com/tags/%E6%83%B3%E6%B3%95/</guid>
+      <guid>https://naonaohu.github.io/tags/%E6%83%B3%E6%B3%95/</guid>
       <description></description>
     </item>
     
     <item>
       <title>感受</title>
-      <link>https://example.com/tags/%E6%84%9F%E5%8F%97/</link>
+      <link>https://naonaohu.github.io/tags/%E6%84%9F%E5%8F%97/</link>
       <pubDate>Tue, 14 Apr 2020 18:48:06 +0800</pubDate>
       
-      <guid>https://example.com/tags/%E6%84%9F%E5%8F%97/</guid>
+      <guid>https://naonaohu.github.io/tags/%E6%84%9F%E5%8F%97/</guid>
       <description></description>
     </item>
     
