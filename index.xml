@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>孬孬虎的博客</title>
+    <link>https://example.com/</link>
+    <description>Recent content on 孬孬虎的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    <lastBuildDate>Tue, 14 Apr 2020 18:48:06 +0800</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Myfirst</title>
+      <link>https://example.com/posts/myfirst/</link>
+      <pubDate>Tue, 14 Apr 2020 18:48:06 +0800</pubDate>
+      
+      <guid>https://example.com/posts/myfirst/</guid>
+      <description>&lt;p&gt;对于hugo的主题,想进行二次开发
+|项目|价格|数量|
+|:&amp;mdash;-|&amp;mdash;-:|:&amp;mdash;-:|
+|潜水计划1|30000元|1|
+|潜水计划2|40000元|2|&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>学习markdown编辑语法</title>
+      <link>https://example.com/posts/%E5%AD%A6%E4%B9%A0markdown%E7%9A%84%E7%BC%96%E5%86%99%E6%96%B9%E6%B3%95/</link>
+      <pubDate>Tue, 14 Apr 2020 18:48:06 +0800</pubDate>
+      
+      <guid>https://example.com/posts/%E5%AD%A6%E4%B9%A0markdown%E7%9A%84%E7%BC%96%E5%86%99%E6%96%B9%E6%B3%95/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.baidu.com/&#34;&gt;链接&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;我是斜体 *
+** 我是粗体 **
+*** 我是斜粗体 ***&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;哈哈&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;lala&lt;/li&gt;
+&lt;li&gt;xixi&lt;/li&gt;
+&lt;li&gt;wawa&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;卡卡
+&lt;ol&gt;
+&lt;li&gt;haha&lt;/li&gt;
+&lt;li&gt;nana&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;种类&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;数量&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;价格&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;哈哈&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;2&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;5元&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id=&#34;标题一&#34;&gt;标题一&lt;/h1&gt;
+&lt;h2 id=&#34;标题二&#34;&gt;标题二&lt;/h2&gt;
+&lt;h3 id=&#34;标题三&#34;&gt;标题三&lt;/h3&gt;
+&lt;h4 id=&#34;标题四&#34;&gt;标题四&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这端文字将被高亮显示
+&amp;mdash;&amp;mdash;-分割线&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;脚注&#34;&gt;脚注&lt;/h2&gt;
+&lt;p&gt;脚注可以用来编辑参考文献&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

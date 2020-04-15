@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>想法 on 孬孬虎的博客</title>
+    <link>https://example.com/tags/%E6%83%B3%E6%B3%95/</link>
+    <description>Recent content in 想法 on 孬孬虎的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    <lastBuildDate>Tue, 14 Apr 2020 18:48:06 +0800</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/%E6%83%B3%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Myfirst</title>
+      <link>https://example.com/posts/myfirst/</link>
+      <pubDate>Tue, 14 Apr 2020 18:48:06 +0800</pubDate>
+      
+      <guid>https://example.com/posts/myfirst/</guid>
+      <description>&lt;p&gt;对于hugo的主题,想进行二次开发
+|项目|价格|数量|
+|:&amp;mdash;-|&amp;mdash;-:|:&amp;mdash;-:|
+|潜水计划1|30000元|1|
+|潜水计划2|40000元|2|&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
